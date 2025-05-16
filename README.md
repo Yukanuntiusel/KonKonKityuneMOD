@@ -14,8 +14,6 @@ Minecraftに **「こんこんきちゅね」** を呼べるMODです。　**＼
 - NeoForge
 
 ## [対応バージョン]
-NeoForgeとForgeで対応できそうであれば希望があれば
-
 - NeoForge
   - v1.21.5(21.5.66-beta)
   - v1.21.4
