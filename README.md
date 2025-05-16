@@ -1,3 +1,4 @@
+![icon_big](https://github.com/user-attachments/assets/b34e1bad-116f-42ad-a985-785282252b05)
 
 # こんこんきちゅねMOD ver1.0.0
 
