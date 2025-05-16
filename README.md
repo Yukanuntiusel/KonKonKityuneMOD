@@ -1,6 +1,6 @@
 ![icon_big](https://github.com/user-attachments/assets/b34e1bad-116f-42ad-a985-785282252b05)
 
-# こんこんきちゅねMOD ver1.0.0
+# こんこんきちゅねMOD v1.0.0
 
 こんこんきちゅね　まいんくらふとに　あそびに　きたよ
 
@@ -8,12 +8,16 @@ Minecraftに **「こんこんきちゅね」** を呼べるMODです。　**＼
 
 <br>
 
-## [Githubはじめての方へ]
-[Releases](https://github.com/Yukanuntiusel/KonKonKityuneMOD/releases)から欲しいバージョンをダウンロードしてね
-
 ## [必要なもの]
 - Minecraft Java Edition
 - NeoForge
+
+## [対応バージョン]
+NeoForge v1.21.5
+
+## [インストール方法]
+[Releases](https://github.com/Yukanuntiusel/KonKonKityuneMOD/releases)から欲しいバージョンをダウンロードしたら<br>
+MinecraftのmodsフォルダにこのMODをいれてね
 
 ## [このMODの内容]
 以下の内容が追加されます。<br>
