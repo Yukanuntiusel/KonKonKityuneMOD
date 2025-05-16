@@ -5,8 +5,9 @@
 こんこんきちゅね　まいんくらふとに　あそびに　きたよ
 
 Minecraftに **「こんこんきちゅね」** を呼べるMODです。　**＼わっ／**
-
 <br>
+
+![kityune](https://github.com/user-attachments/assets/4799645c-a5fc-4502-a62f-2108cacc68a4)
 
 ## [必要なもの]
 - Minecraft Java Edition
