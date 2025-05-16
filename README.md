@@ -14,6 +14,7 @@ Minecraftに **「こんこんきちゅね」** を呼べるMODです。　**＼
 
 ## [対応バージョン]
 NeoForge v1.21.5
+(希望があって対応できそうだったら増やすかも)
 
 ## [インストール方法]
 [Releases](https://github.com/Yukanuntiusel/KonKonKityuneMOD/releases)から欲しいバージョンをダウンロードしたら<br>
