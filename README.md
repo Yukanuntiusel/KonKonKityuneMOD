@@ -10,15 +10,15 @@ Minecraftに **「こんこんきちゅね」** を呼べるMODです。　**＼
 ![kityune](https://github.com/user-attachments/assets/4799645c-a5fc-4502-a62f-2108cacc68a4)
 
 ## [必要なもの]
-- Minecraft Java Edition
-- NeoForge or Forge
+- **Minecraft Java Edition**
+- **NeoForge** or **Forge**
 
 ## [対応バージョン]
-- NeoForge
+- **NeoForge**
   - v1.21.5(21.5.66-beta)
   - v1.21.4
   - v1.21.1
-- Forge
+- **Forge**
   - v1.20.1
 
 ## [インストール方法]
@@ -52,7 +52,7 @@ MinecraftのmodsフォルダにこのMODをいれてね
 - お座り時たまに前足を万歳します　特に意味はないみたい
 
 ## [注意事項]
-誤爆防止でこんこんきちゅねはいろんな耐性があります。**とてもつよい。** <br>
+誤爆防止でこんこんきちゅねにはいろんな耐性がついています。とてもつよい。 <br>
 なので一度呼ぶと気に入ってなかなか帰ってくれません。(無計画に大量に呼んでしまうと大変かも)<br>
 お帰り願いたいときはMODを消すか、心苦しいですがKillコマンド等を使ってバイバイしてください。<br>
 
