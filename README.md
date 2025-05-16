@@ -64,4 +64,8 @@ A.きちゅねはきちゅね　こんこんきちゅね　です。<br>
 Q.配信などで映しても大丈夫？<br>
 A.大丈夫です。ぜひ可愛がってあげてください。<br>
 
-制作:[Yukanuntiusel](https://x.com/Yukanuntius_el)
+<br>
+
+制作・連絡先:[Yukanuntiusel](https://x.com/Yukanuntius_el)<br>
+MOD制作ソフト:MCreator
+
