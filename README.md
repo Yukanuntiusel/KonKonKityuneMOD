@@ -6,6 +6,9 @@
 
 Minecraftに **「こんこんきちゅね」** を呼べるMODです。　**＼わっ／**
 
+## [Githubはじめての方へ]
+画面右のReleaseから最新バージョンの欲しい.jarをダウンロードしてね
+
 ## [必要なもの]
 - Minecraft Java Edition
 - NeoForge
