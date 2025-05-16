@@ -9,7 +9,7 @@ Minecraftに **「こんこんきちゅね」** を呼べるMODです。　**＼
 <br>
 
 ## [Githubはじめての方へ]
-画面右のReleasesから欲しい.jarをダウンロードしてね
+[Releases](https://github.com/Yukanuntiusel/KonKonKityuneMOD/releases)から欲しいバージョンをダウンロードしてね
 
 ## [必要なもの]
 - Minecraft Java Edition
@@ -19,8 +19,8 @@ Minecraftに **「こんこんきちゅね」** を呼べるMODです。　**＼
 以下の内容が追加されます。<br>
 
 **■レシピ<br>**
-簡単&後半余りがちな小麦の種を活用できるようにしています。<br>
-**他MODとのレシピ競合**等にご注意ください。<br>
+　簡単&後半余りがちな小麦の種を活用できるようにしています。<br>
+　**他MODとのレシピ競合**等にご注意ください。<br>
 - 小麦の種×9　…おあげ
 - おあげ×9　　…こんこんきちゅねをよぶ(スポーンエッグ)
 
@@ -60,3 +60,4 @@ A.きちゅねはきちゅね　こんこんきちゅね　です。<br>
 Q.配信などで映しても大丈夫？<br>
 A.大丈夫です。ぜひ可愛がってあげてください。<br>
 
+制作:[Yukanuntiusel](https://x.com/Yukanuntius_el)
